@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babaknabiee
 - 👀 I’m interested in developing great software for all!
-- 🌱 I’m currently learning coding swift
+- 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on javascript & C# liabary.
 - 📫 How to reach me ...
 
